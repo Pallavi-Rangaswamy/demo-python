@@ -34,3 +34,12 @@ z = -5j
 print(type(x))
 print(type(y))
 print(type(z))
+#Datatypes
+#list
+x = ["apple", "banana", "cherry"]
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x)) 
